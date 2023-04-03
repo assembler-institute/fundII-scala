@@ -1,3 +1,3 @@
 # fundII-scala
 
-Follow the notebooks. You can open them in Databricks.
+Download all the notebooks. You can open them in Databricks.
